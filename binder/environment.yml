@@ -1,7 +1,9 @@
+channels:
+- conda-forge
 dependencies:
-        - pandas
-        - jupyter
-        - scikit-learn
-        - matplotlib
-        - missingno
-        - scipy
+- pandas
+- jupyter
+- scikit-learn
+- matplotlib
+- missingno
+- scipy
