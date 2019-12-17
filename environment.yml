@@ -7,3 +7,6 @@ dependencies:
         - scikit-learn
         - matplotlib
         - missingno
+        - scipy
+        - rpy2
+        - R
