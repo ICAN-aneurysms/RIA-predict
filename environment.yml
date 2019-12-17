@@ -10,3 +10,4 @@ dependencies:
         - scipy
         - rpy2
         - R
+        - IRKernel
