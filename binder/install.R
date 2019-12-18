@@ -1,6 +1,3 @@
-#install.packages("reticulate")
-#install.packages(c("rmarkdown", "caTools", "bitops"))
-#
 install.packages("FactoMineR")
 install.packages("factoextra")
 install.packages("stringr")
