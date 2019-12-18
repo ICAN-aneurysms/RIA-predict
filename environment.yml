@@ -1,9 +1,0 @@
-name: ICAN-experiments
-
-dependencies:
-        - python>=3.6
-        - pandas
-        - jupyter
-        - scikit-learn
-        - matplotlib
-        - missingno
