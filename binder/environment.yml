@@ -1,9 +1,0 @@
-#channels:
-#- conda-forge
-#dependencies:
-#- pandas
-#- jupyter
-#- scikit-learn
-#- matplotlib
-#- missingno
-#- scipy
