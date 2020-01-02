@@ -2,5 +2,4 @@ dependencies:
   - pandas
   - jupyter
   - matplotlib
-  - missingno
   - scipy
