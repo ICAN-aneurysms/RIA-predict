@@ -1,18 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ## Missing values
-
-# #### Editor : Olivia Rousseau
-#     Student in Master 2 Statistical Engineering at the University of Nantes
-#     Intern at the Data Clinic in the CHU of Nantes
-# #### Date : 15 may 2019
-
-# ### Notebook objectives:
-#     - Functions to count or to give the index of missing values
-#         - num_missing()
-#         - index_missing()
-#  => end : .py "Missing_Values.py"
+# Functions to count or to give the index of missing values
+#  - num_missing()
+#  - index_missing()
 
 # ## Packages importation
 
