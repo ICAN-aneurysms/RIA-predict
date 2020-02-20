@@ -1,4 +1,4 @@
-sex#age#bmi#sporadic_case#multiple_IA#IA_location#adjusted_IA_size#packs_year#alcohol#hta#headaches#diabetes#dyslipidemia#ischemic_stroke_history#ischemic_heart_disease_history#pad_history#carotid_artery_stenosis_history#aortic_aneurysm_history#statin_ttt#platelet_aggregation_inhibiting_ttt#vka_or_anticoagulant_ttt#anti_inflammatory_ttt#hormone_therapy_ttt#allergy#asthma#atopy#eczema#rupture#PHASES_score
+sex#age#bmi#sporadic_case#multiple_IA#IA_location#adjusted_IA_size#tobacco#alcohol#hta#headaches#diabetes#dyslipidemia#ischemic_stroke_history#ischemic_heart_disease_history#pad_history#carotid_artery_stenosis_history#aortic_aneurysm_history#statin_ttt#platelet_aggregation_inhibiting_ttt#vka_or_anticoagulant_ttt#anti_inflammatory_ttt#hormone_therapy_ttt#allergy#asthma#atopy#eczema#rupture#PHASES_score
 F#34#30.5#Yes#No#ICA#0.42#Little_smoker#< 150g#Yes#No#No#No#No#No#No#No#No#No#No#No#No#No#No#Yes#No#Yes#Yes#0
 M#55#25.3#No#No#PCA#6.24#Little_smoker#< 150g#No#No#No#No#No#No#No#No#No#No#No#No#No#Yes#No#No#No#No#No#4
 F#64#28.0#Yes#Yes#MCA#0.8#Little_smoker#< 150g#No#No#No#No#No#No#No#No#No#No#No#No#No#No#No#No#No#No#No#2
