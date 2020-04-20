@@ -3,3 +3,8 @@ dependencies:
   - jupyter
   - matplotlib
   - scipy
+  - r-base=3.6.3
+  - r-devtools=2.2*
+  - r-irkernel=1.1*
+  - r-randomforest=4.6*
+  - r-rcurl=1.98*
