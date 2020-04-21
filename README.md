@@ -4,4 +4,3 @@
 
 # Tests
 - Random Forest Model [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/albangaignard/ICAN-ml-experiments.git/master?filepath=notebooks/4-Random-Forest-Model.ipynb)
-- test [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/albangaignard/ICAN-ml-experiments.git/master?urlpath=lab)
