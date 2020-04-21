@@ -8,3 +8,13 @@ dependencies:
   - r-irkernel=1.1*
   - r-randomforest=4.6*
   - r-rcurl=1.98*
+  - r-factominer
+  - r-tidyverse
+  - r-viridis
+  - r-factoextra
+  - r-plot3D
+  - r-finalfit
+  - r-knitr
+  - r-ggplot2
+  - r-rocr
+  - r-pls
