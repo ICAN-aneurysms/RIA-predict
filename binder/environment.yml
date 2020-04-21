@@ -13,8 +13,6 @@ dependencies:
   - r-viridis
   - r-factoextra
   - r-plot3D
-  - r-finalfit
-  - r-knitr
   - r-ggplot2
   - r-rocr
   - r-pls
