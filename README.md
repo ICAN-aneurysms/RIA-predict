@@ -10,23 +10,20 @@ For computational **reproducibility**, we provide a **simulated clinical dataset
   - Matilde Karakachoff, matilde.karakachoff@chu-nantes.fr
   - Alban Gaignard, alban.gaignard@univ-nantes.fr
 
-## Content 
-  1. Clinical data simulator  : shows see []() for deeper insights on the explored variable. 
-  1. Baseline characteristics: 
-  1. Factor analysis (mixed data): 
-  1. Logistic regression: 
-  1. Random forests: 
-  1. Predictive models comparison: 
-
-# Online re-execution of data analysis and prediction pipeline
-Binder + screenshot of what is expected
+## Online re-execution of data analysis and prediction pipeline
+  1. Clinical data simulator [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/albangaignard/ICAN-ml-experiments.git/master?filepath=notebooks/0-Clinical-data-simulator.ipynb): shows see []() for deeper insights on the explored variable. 
+  1. Baseline characteristics [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/albangaignard/ICAN-ml-experiments.git/master?filepath=notebooks/1-Table-Baseline-Characteristics.ipynb): 
+  1. Factor analysis (mixed data) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/albangaignard/ICAN-ml-experiments.git/master?filepath=notebooks/2-Factor-Analysis-for-Mixed-Data.ipynb): 
+  1. Logistic regression [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/albangaignard/ICAN-ml-experiments.git/master?filepath=notebooks/3-Logistic-Regression-Model.ipynb): 
+  1. Random forests [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/albangaignard/ICAN-ml-experiments.git/master?filepath=notebooks/4-Random-Forest-Model.ipynb): 
+  1. Predictive models comparison [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/albangaignard/ICAN-ml-experiments.git/master?filepath=notebooks/5-Models-comparison.ipynb): 
 
 # Local re-execution of data analysis and prediction pipeline
 Docker
 
 
 # ICAN-ml-experiments
-- Clinical data simulator [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/albangaignard/ICAN-ml-experiments.git/master?filepath=notebooks/0-Clinical-data-simulator.ipynb)
+- Clinical data simulator 
 - Baseline characteristics table [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/albangaignard/ICAN-ml-experiments.git/master?filepath=notebooks/1-Table-Baseline-Characteristics.ipynb)
 
 # Tests
