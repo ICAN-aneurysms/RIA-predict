@@ -1,13 +1,7 @@
 # Predicting and understanding intracranial aneurysm rupture events from the ICAN data collection
 
 # Aims
-The ICAN project is a French research program. Its aim is to understand the pathophysiology of intracranial aneurysm (IA) (1). One objective of this study is to develop diagnostic and predictive tools for the risk of IA rupture. Results obtained with ICAN data-collection to answer it are given in … (2).
-
-With the purpose of computational reproducibility, Python and R notebooks were created to reuse the method. A simulated dataset was constructed according to ICAN data-collection to approximately remodel main tables and figures.
-
-(1) Bourcier R, Chatel S, Bourcereau E, Jouan S, Marec HL, Daumas-Duport B, et al. Understanding the pathophysiology of intracranial aneurysm: the ICAN project. Neurosurgery. 2017;80:621–626.
-
-(2)
+ICAN (https://doi.org/10.1093/neuros/nyw135) is a French research program aimed at better understanding the pathophysiology of intracranial aneurysm (IA). One of the objectives is to develop diagnostic and predictive tools addressing IA rupture risk. For computational reproducibility, we provide here a simulated clinical dataset, Python and R notebooks. 
 
 Main contacts : 
   - Olivia Rousseau, Msc, olivia.rousseau@univ-nantes.fr, CHU de Nantes, INSERM, CIC 1413, Clinique des données, F-44000 Nantes, France
@@ -15,6 +9,8 @@ Main contacts :
   - Alban Gaignard, PhD, alban.gaignard@univ-nantes.fr, Université de Nantes, CHU Nantes, CNRS, Inserm, l’institut du thorax, F-44000 Nantes, France
 
 # Clinical data 
+A simulated dataset was constructed according to ICAN data-collection to approximately remodel main tables and figures.
+
 The dataset is composed of 2505 rows (patients) et 28 variables as the original ICAN data-collection.
 
 The outcome is the rupture. 
