@@ -23,4 +23,5 @@ We are gratefull to the [MyBinder](https://mybinder.org) service. It allows to l
 # Local re-execution
 We also provider a Docker container hosting the packaged software environment and the jupyter notebooks. 
 
-As soon as [docker is installed](https://docs.docker.com/get-docker/), just launch the command `docker pull ..` .
+As soon as [docker is installed](https://docs.docker.com/get-docker/), launch the command `docker pull albangaignard/ican-ml` to retrieve the container, and `docker run -p 8888:8888 -i -t ican-ml` to run it. This will launch a jupyter notebook on your local computer on port 8888. Finally just browse the url specified in the terminal to enter into the notebook environment.
+
