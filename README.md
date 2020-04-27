@@ -20,5 +20,7 @@ We are gratefull to the [MyBinder](https://mybinder.org) service. It allows to l
   1. Random forests ![RF](fig/sc5.png)
   1. Predictive models comparison ![RFvsLR](fig/sc6.png)
 
-# Local re-execution of data analysis and prediction pipeline
-Docker
+# Local re-execution
+We also provider a Docker container hosting the packaged software environment and the jupyter notebooks. 
+
+As soon as [docker is installed](https://docs.docker.com/get-docker/), just launch the command `docker pull ..` .
