@@ -11,12 +11,12 @@ ICAN (https://doi.org/10.1093/neuros/nyw135) is a French research program aimed 
 ## Online re-execution of data analysis and prediction pipeline 
 We are gratefull to the [MyBinder](https://mybinder.org) service. It allows to launch and configure virtual machines with the required software environment. Dependencies are specified in the [environment.yml](binder/environment.yml) file. You can then interact with data analyis pipelines made available through jupyter notebooks [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/albangaignard/ICAN-ml-experiments.git/master?filepath=notebooks). 
 
-  1. Clinical data simulator: shows how we produce simulated data. Numpy random functions are extensively used to mimic virtual subjects with probablity distributions close to whats is observed in the real ICAN data collection. Explored varaibles are detailed in [sim-data.md](sim-data.md) ![simulated clinical data](fig/sc1.png). 
-  1. Baseline characteristics: shows how variables are represented in the *ruptured* and *unruptured* sub-populations and hwo *p-values* are computed. ![baseline characteristics](fig/sc2.png). 
-  1. Factor analysis (mixed data): shows how the FAMD dimensionality reduction method is applied to our dataset. ![FAMD](fig/sc3.png)
-  1. Logistic regression ![LR](fig/sc4.png)
-  1. Random forests ![RF](fig/sc5.png)
-  1. Predictive models comparison ![RFvsLR](fig/sc6.png)
+  1. [0-Clinical-data-simulator.ipynb](notebooks/0-Clinical-data-simulator.ipynb): shows how we produce simulated data. Numpy random functions are extensively used to mimic virtual subjects with probablity distributions close to whats is observed in the real ICAN data collection. Explored varaibles are detailed in [sim-data.md](sim-data.md) ![simulated clinical data](fig/sc1.png). 
+  1. [1-Table-Baseline-Characteristics.ipynb](notebooks/1-Table-Baseline-Characteristics.ipynb): shows how variables are represented in the *ruptured* and *unruptured* sub-populations and hwo *p-values* are computed. ![baseline characteristics](fig/sc2.png). 
+  1. [2-Factor-Analysis-for-Mixed-Data.ipynb](notebooks/2-Factor-Analysis-for-Mixed-Data.ipynb): shows how the FAMD dimensionality reduction method is applied to our dataset. ![FAMD](fig/sc3.png)
+  1. [3-Logistic-Regression-Model.ipynb](notebooks/3-Logistic-Regression-Model.ipynb) ![LR](fig/sc4.png)
+  1. [4-Random-Forest-Model.ipynb](notebooks/4-Random-Forest-Model.ipynb) ![RF](fig/sc5.png)
+  1. [5-Models-comparison.ipynb](notebooks/5-Models-comparison.ipynb) ![RFvsLR](fig/sc6.png)
 
 # Local re-execution
 We also provider a Docker container hosting the packaged software environment and the jupyter notebooks. 
