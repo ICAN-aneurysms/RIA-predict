@@ -1,4 +1,4 @@
-# Predicting and understanding intracranial aneurysm rupture events
+# Predicting and understanding intracranial aneurysm rupture events [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/albangaignard/ICAN-ml-experiments.git/master?filepath=notebooks)
 
 ## Motivations
 ICAN (https://doi.org/10.1093/neuros/nyw135) is a French research program aimed at better understanding the pathophysiology of intracranial aneurysm (IA). One of the addressed challenges is to develop diagnostic and predictive tools addressing IA rupture risk. **For computational reproducibility, we provide here a simulated clinical dataset tooled with Python and R notebooks. 
