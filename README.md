@@ -1,11 +1,9 @@
-# Predicting and understanding intracranial aneurysm rupture events from the ICAN data collection
+# Predicting and understanding intracranial aneurysm rupture events
 
-## Aims
-ICAN (https://doi.org/10.1093/neuros/nyw135) is a French research program aimed at better understanding the pathophysiology of intracranial aneurysm (IA). One of the objectives is to develop diagnostic and predictive tools addressing IA rupture risk. 
+## Motivations
+ICAN (https://doi.org/10.1093/neuros/nyw135) is a French research program aimed at better understanding the pathophysiology of intracranial aneurysm (IA). One of the addressed challenges is to develop diagnostic and predictive tools addressing IA rupture risk. **For computational reproducibility, we provide here a simulated clinical dataset tooled with Python and R notebooks. 
 
-For computational **reproducibility**, we provide a **simulated clinical dataset** tooled with **Python and R notebooks**. 
-
-## Contacts
+**Contacts**
   - Olivia Rousseau, olivia.rousseau@univ-nantes.fr
   - Matilde Karakachoff, matilde.karakachoff@chu-nantes.fr
   - Alban Gaignard, alban.gaignard@univ-nantes.fr
@@ -23,5 +21,5 @@ We are gratefull to the [MyBinder](https://mybinder.org) service. It allows to l
 # Local re-execution
 We also provider a Docker container hosting the packaged software environment and the jupyter notebooks. 
 
-As soon as [docker is installed](https://docs.docker.com/get-docker/), launch the command `docker pull albangaignard/ican-ml` to retrieve the container, and `docker run -p 8888:8888 -i -t ican-ml` to run it. This will launch a jupyter notebook on your local computer on port 8888. Finally just browse the url specified in the terminal to enter into the notebook environment.
+As soon as [docker is installed](https://docs.docker.com/get-docker/), launch the command `docker pull albangaignard/ican-ml` to retrieve the container, and `docker run -p 8888:8888 -i -t albangaignard/ican-ml` to run it. This will launch a jupyter notebook on your local computer on port 8888. Finally just browse the url specified in the terminal to enter into the notebook environment.
 
